@@ -1,0 +1,3 @@
+yt-dlp
+docx2pdf
+pdf2docx
