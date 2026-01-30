@@ -37,7 +37,8 @@ Dosya:
 pip install -r requirements.txt
 ```
 ## EXE OLUŞTURMA
-
+```bash
 pip install pyinstaller
 pyinstaller --onefile --windowed video-indirici.py
 pyinstaller --onefile --windowed dosyadönüştürücübot.py
+```
